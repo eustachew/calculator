@@ -7,6 +7,7 @@
 #include "calc.h"
 
 #define NUM_TESTS 10
+#comment
 
 struct pair{
   char* expression;
